@@ -1,0 +1,2 @@
+webpackJsonp([67970328755136],{365:function(t,e){t.exports={data:{site:{meta:{title:"ITO",description:"Input Think Output",url:"https://hongsenliu.github.io",author:"hongsenliu",twitter:"hongsenliu"}},post:{id:"/Users/admin/gatsby-sites/english/src/pages/articles/2017-12-10-Sample-1/index.md absPath of file >>> MarkdownRemark",html:"<p>Hello</p>",frontmatter:{layout:"post",title:"Sample 1",path:"/sample-1/",categories:["IELTS","writing"],date:"2017/12/10"}}},pathContext:{path:"/sample-1/"}}}});
+//# sourceMappingURL=path---sample-1-565bd63250f47d9018ea.js.map
